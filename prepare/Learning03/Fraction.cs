@@ -34,7 +34,7 @@ public string Getfration(int top, int bottom)
 }
 public double GetValue()
 {
-    // legit could not figure out so i looked a soulution
+    // legit could not figure out so i looked at soulution
     return (double)_Top/(double)_Bottom;
 }
 
